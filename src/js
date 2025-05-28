@@ -1,0 +1,15 @@
+├── components/
+│   ├── Dashboard/
+│   ├── Products/
+│   └── Profile/
+│
+├── data/
+│   ├── mockData.js
+│
+├── pages/
+│   ├── Dashboard.js
+│   ├── Products.js
+│   └── Profile.js
+│
+├── App.js
+└── index.js
